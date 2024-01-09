@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "13283991c66e76d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c32d0c6ddd37d192",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6fe3c7f61ba1b6a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "77b4ed9291b61589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3fa350e1ecc0d5c3",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "8788c9358be9d9f7",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "de1d3051e508e782",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aa341291d7d44337",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "80a3d6b623369864",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "63e940169f61b818",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "eefa935ad8f70656",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "README.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "f101451dea7f7d00",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "README.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a3c260c8dc2e50a8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "README.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "77b4ed9291b61589",
+  "lastOpenFiles": [
+    "Новая заметка.md",
+    "README.md"
+  ]
+}
