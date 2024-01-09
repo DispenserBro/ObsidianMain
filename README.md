@@ -1,2 +1,2 @@
 # ObsidianMain
-Main repo with Obsidian Notes
+Main re
