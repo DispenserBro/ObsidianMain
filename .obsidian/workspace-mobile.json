@@ -131,9 +131,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "401f23a80ff1abaa",
+  "active": "8788c9358be9d9f7",
   "lastOpenFiles": [
     "Новая заметка.md",
-    "README.md"
+    "/README.md",
+    "Новая заметка с компа.md",
+    "README.md",
+    "/Новая заметка с компа.md"
   ]
 }
