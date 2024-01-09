@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Новая заметка.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "Новая заметка.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "Новая заметка.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -127,7 +127,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "Новая заметка.md"
           }
         }
       }
@@ -144,9 +144,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8788c9358be9d9f7",
+  "active": "77b4ed9291b61589",
   "lastOpenFiles": [
-    "Новая заметка.md",
-    "README.md"
+    "README.md",
+    "Новая заметка.md"
   ]
 }
