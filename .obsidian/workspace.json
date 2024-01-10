@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Программирование/Языки программирования/Python/Python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Программирование/Языки программирования/Python/Python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Программирование/Языки программирования/Python/Python.md"
+              }
             }
           }
         ],
@@ -157,13 +161,13 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8f0a7ccc355c6b65",
+  "active": "59cbee6db3cf331e",
   "lastOpenFiles": [
+    "Программирование/Программирование.md",
     "Программирование/Языки программирования/Python/Python.md",
     "Программирование/Языки программирования/Языки программирования.md",
     "Программирование/Языки программирования/Python",
     "root.md",
-    "Программирование/Программирование.md",
     "README.md",
     "Программирование/Базы данных/Базы данных.md",
     "Программирование/Базы данных",
