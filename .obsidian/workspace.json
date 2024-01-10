@@ -4,16 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "3a6394f911c8bbba",
+        "id": "6c77a1de080351ae",
         "type": "tabs",
         "children": [
           {
-            "id": "006520586c48639a",
+            "id": "b94e1182d1cd2eb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "59cbee6db3cf331e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "Программирование/Языки программирования/Языки программирования.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +93,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "root.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,9 +151,14 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "006520586c48639a",
+  "active": "b94e1182d1cd2eb6",
   "lastOpenFiles": [
+    "Программирование/Языки программирования/Языки программирования.md",
+    "Программирование/Программирование.md",
+    "Программирование/Базы данных",
+    "Программирование/Языки программирования",
     "root.md",
+    "Программирование",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Новая заметка с компа.md",
