@@ -6,7 +6,6 @@
       {
         "id": "3a6394f911c8bbba",
         "type": "tabs",
-        "dimension": 76.71319796954315,
         "children": [
           {
             "id": "006520586c48639a",
@@ -18,21 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4e25bd237bc449cc",
-        "type": "tabs",
-        "dimension": 23.28680203045685,
-        "children": [
-          {
-            "id": "a698a13a72b6f217",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -145,7 +129,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -164,8 +149,8 @@
   },
   "active": "006520586c48639a",
   "lastOpenFiles": [
-    "README.md",
     "root.md",
+    "README.md",
     "conflict-files-obsidian-git.md",
     "Новая заметка с компа.md",
     "Новая заметка.md",
