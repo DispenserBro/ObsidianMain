@@ -6,6 +6,9 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "CoData",
+      "CoCode",
+      "CoWindowTerminal",
       "CoInfo",
       "CoFolderDocument"
     ],
@@ -24,5 +27,8 @@
     "iconsInNotesEnabled": true
   },
   "files": "CoFolderDocument",
-  "README.md": "CoInfo"
+  "README.md": "CoInfo",
+  "root.md": "CoWindowTerminal",
+  "Программирование/Языки программирования": "CoCode",
+  "Программирование/Базы данных": "CoData"
 }
