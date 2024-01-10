@@ -8,23 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b94e1182d1cd2eb6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "59cbee6db3cf331e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Программирование/Языки программирования/Языки программирования.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0be017122dadbaa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f0a7ccc355c6b65",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -151,15 +157,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "b94e1182d1cd2eb6",
+  "active": "8f0a7ccc355c6b65",
   "lastOpenFiles": [
+    "README.md",
+    "root.md",
+    "Программирование/Базы данных/Базы данных.md",
     "Программирование/Языки программирования/Языки программирования.md",
     "Программирование/Программирование.md",
     "Программирование/Базы данных",
     "Программирование/Языки программирования",
-    "root.md",
     "Программирование",
-    "README.md",
     "conflict-files-obsidian-git.md",
     "Новая заметка с компа.md",
     "Новая заметка.md",
