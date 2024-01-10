@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "root.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "root.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "root.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "root.md"
               }
             }
           }
@@ -164,11 +164,11 @@
   },
   "active": "006520586c48639a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "README.md",
+    "root.md",
+    "conflict-files-obsidian-git.md",
     "Новая заметка с компа.md",
     "Новая заметка.md",
-    "root.md",
     "files"
   ]
 }
