@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "root.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "root.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "root.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md"
+            "file": "root.md"
           }
         }
       }
@@ -131,15 +131,16 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "8788c9358be9d9f7",
+  "active": "401f23a80ff1abaa",
   "lastOpenFiles": [
+    "/Программирование/Языки программирования/Python/Python.md",
+    "README.md",
     "Программирование/Языки программирования/Языки программирования.md",
-    "Программирование/Программирование.md",
-    "root.md",
     "Программирование/Языки программирования/Python/Python.md",
+    "root.md",
+    "Программирование/Программирование.md",
     "Программирование/Базы данных/Базы данных.md",
     "/Программирование/Языки программирования/Языки программирования.md",
-    "/Программирование/Языки программирования/Python/Python.md",
     "/Программирование/Программирование.md",
     "/Программирование/Базы данных/Базы данных.md",
     "/root.md",
@@ -151,7 +152,6 @@
     "/Программирование/Языки программирования",
     "/Программирование/Базы данных",
     "/Программирование",
-    "README.md",
     "Новая заметка.md",
     "/README.md",
     "Новая заметка с компа.md",
