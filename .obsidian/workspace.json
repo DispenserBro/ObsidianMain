@@ -6,9 +6,10 @@
       {
         "id": "3a6394f911c8bbba",
         "type": "tabs",
+        "dimension": 76.71319796954315,
         "children": [
           {
-            "id": "a698a13a72b6f217",
+            "id": "006520586c48639a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,6 +18,21 @@
                 "mode": "source",
                 "source": false
               }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4e25bd237bc449cc",
+        "type": "tabs",
+        "dimension": 23.28680203045685,
+        "children": [
+          {
+            "id": "a698a13a72b6f217",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -146,11 +162,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0bcdf87de845e075",
+  "active": "006520586c48639a",
   "lastOpenFiles": [
-    "files",
     "Новая заметка с компа.md",
+    "Новая заметка.md",
     "README.md",
-    "Новая заметка.md"
+    "root.md",
+    "files"
   ]
 }
