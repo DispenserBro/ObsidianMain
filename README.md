@@ -1,4 +1,3 @@
-
 # Obsidian Main repo
 ## Главный репозиторий с заметками Obsidian
 
