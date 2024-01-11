@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "СКФУ/Программная инженерия/Вопросы + методички.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,12 +23,15 @@
             "id": "3951df3c28dfdc32",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "СКФУ/Программная инженерия/Вопросы + методички.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "СКФУ/Программная инженерия/Вопросы + методички.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "СКФУ/Программная инженерия/Вопросы + методички.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "СКФУ/Программная инженерия/Вопросы + методички.md"
+              }
             }
           }
         ],
@@ -153,11 +160,11 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "3951df3c28dfdc32",
+  "active": "59cbee6db3cf331e",
   "lastOpenFiles": [
     "root.md",
-    "СКФУ/СКФУ.md",
     "СКФУ/Программная инженерия/Вопросы + методички.md",
+    "СКФУ/СКФУ.md",
     "СКФУ/Программная инженерия",
     "СКФУ",
     "Программирование/Языки программирования/Python/Python.md",
