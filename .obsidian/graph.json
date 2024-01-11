@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14069084
       }
+    },
+    {
+      "query": "path:СКФУ  ",
+      "color": {
+        "a": 1,
+        "rgb": 2023450
+      }
     }
   ],
   "collapse-display": false,
