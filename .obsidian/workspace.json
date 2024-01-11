@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "root.md",
+                "file": "Обучение/Программная инженерия/Вопросы + методички.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7fe2c464fba40171",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "0be017122dadbaa9",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "root.md",
+                "file": "Обучение/Программная инженерия/Вопросы + методички.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "root.md",
+                "file": "Обучение/Программная инженерия/Вопросы + методички.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "root.md"
+                "file": "Обучение/Программная инженерия/Вопросы + методички.md"
               }
             }
           }
@@ -172,12 +161,15 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7fe2c464fba40171",
+  "active": "59cbee6db3cf331e",
   "lastOpenFiles": [
+    "root.md",
+    "Обучение/Программная инженерия/Вопросы + методички.md",
+    "Обучение/Программная инженерия",
+    "Обучение",
     "Программирование/Языки программирования/Python/Python.md",
     "Программирование/Языки программирования/Языки программирования.md",
     "Программирование/Программирование.md",
-    "root.md",
     "README.md",
     "Программирование/Языки программирования/Python",
     "Программирование/Базы данных/Базы данных.md",
