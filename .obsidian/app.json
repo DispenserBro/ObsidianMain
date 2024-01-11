@@ -1,4 +1,5 @@
 {
-  "newFileLocation": "root",
-  "attachmentFolderPath": "files"
+  "newFileLocation": "current",
+  "attachmentFolderPath": "files",
+  "showUnsupportedFiles": true
 }
