@@ -20,20 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "0be017122dadbaa9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f0a7ccc355c6b65",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +144,8 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "audio-recorder:Начать/остановить запись": false
     }
   },
   "active": "59cbee6db3cf331e",
