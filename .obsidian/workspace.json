@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "bb64268ae23a459f",
+            "id": "02896c9a4f4278af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СКФУ/Программная инженерия/RUP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c53a83a15fa0663b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "СКФУ/Программная инженерия/Итеративный пошаговый ЖЦ.md",
+                "file": "СКФУ/Программная инженерия/MDA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -103,7 +91,7 @@
       {
         "id": "75f1825ee140d259",
         "type": "tabs",
-        "dimension": 55.32945736434108,
+        "dimension": 75.48449612403101,
         "children": [
           {
             "id": "df87c9651edc0868",
@@ -130,7 +118,7 @@
       {
         "id": "3f287953a494160c",
         "type": "tabs",
-        "dimension": 44.67054263565892,
+        "dimension": 24.515503875968992,
         "children": [
           {
             "id": "3d6b85929fb68074",
@@ -138,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "СКФУ/Программная инженерия/Итеративный пошаговый ЖЦ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "СКФУ/Программная инженерия/Итеративный пошаговый ЖЦ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,17 +152,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "СКФУ/Программная инженерия/Итеративный пошаговый ЖЦ.md"
-              }
+              "state": {}
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 684.5
+    "width": 734.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,15 +173,17 @@
       "audio-recorder:Начать/остановить запись": false
     }
   },
-  "active": "c53a83a15fa0663b",
+  "active": "59cbee6db3cf331e",
   "lastOpenFiles": [
-    "СКФУ/Программная инженерия/RUP.md",
+    "СКФУ/Программная инженерия/MDA.md",
     "СКФУ/Программная инженерия/Вопросы + методички.md",
+    "СКФУ/Программная инженерия/Вопросы/RUP.md",
+    "files/RUP.png",
+    "СКФУ/Программная инженерия/Вопросы/Итеративный пошаговый ЖЦ.md",
     "files/Iterative_lc.jpg",
     "files/Cascade_lc.png",
-    "СКФУ/Программная инженерия/Итеративный пошаговый ЖЦ.md",
     "files/spiral_lc.webp",
-    "СКФУ/Программная инженерия/ЖЦ Водопад с обратной связью.md",
+    "СКФУ/Программная инженерия/Вопросы/ЖЦ Водопад с обратной связью.md",
     "СКФУ/Программная инженерия/Вопросы/Модели ЖЦ.md",
     "Программирование/Языки программирования/Python/Python.md",
     "Программирование/Языки программирования/Языки программирования.md",
