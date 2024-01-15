@@ -15,13 +15,15 @@
 
 Примеры основных структур на языке Python:
 - Цикл `for`
-```python
-lst: list[int] = [1, 2, 3, 4, 5, 6]
-
-# Перебор по элементам
-for el in list:
-    print(el)
-# Перебор по индексам
-for i in range(len(lst)):
-    print(lst[i])
-```
+    ```python
+    lst: list[int] = [1, 2, 3, 4, 5, 6]
+    
+    # Перебор по элементам
+    print('elements:')
+    for el in lst:
+        print(el)
+    # Перебор по индексам
+    print('indexes:')
+    for i in range(len(lst)):
+        print(lst[i])
+    ```
