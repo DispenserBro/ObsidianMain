@@ -29,10 +29,10 @@
       }
     },
     {
-      "query": "file:.png file:.jpg",
+      "query": "file:root",
       "color": {
         "a": 1,
-        "rgb": 6060758
+        "rgb": 16711680
       }
     }
   ],
@@ -47,5 +47,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.3793502772094931,
-  "close": false
+  "close": true
 }
