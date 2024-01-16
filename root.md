@@ -17,6 +17,7 @@ banner_y: 0.45
 - 🗃️Последние изменения: `$=dv.list(dv.pages('').sort(f=>f.file.mtime.ts,"desc").limit(6).file.link)`
 - 📈Статистика
     - 🗒️Количество заметок: `$=dv.pages().length`
-        - По программированию: `$=dv.pages("Программирование").length`
+        - 🧑‍💻По программированию: `$=dv.pages('"Программирование"').length`
+        - 🎓По программе ВУЗа: `$=dv.pages('"СКФУ"').length`
 
 <div class='title'><p>Корневой файл системы заметок</p></div>
