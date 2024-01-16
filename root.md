@@ -13,4 +13,4 @@ banner_y: 0.45
     - #бд 
     - #вуз 
 
-<div class='title' style='text-align: center;'><p>Index Page</p></div>
+<div class='title'><p>Корневой файл системы заметок</p></div>
