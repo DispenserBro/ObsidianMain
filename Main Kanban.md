@@ -26,11 +26,6 @@ kanban-plugin: basic
 
 
 
-***
-
-## Archive
-
-- [ ] Написать ответы на все вопросы
 
 %% kanban:settings
 ```
