@@ -34,6 +34,6 @@ kanban-plugin: basic
 
 %% kanban:settings
 ```
-{"kanban-plugin":"basic","date-picker-week-start":1,"tag-colors":[],"show-checkboxes":true,"date-format":"DD.MM.YYYY","time-format":"HH:mm","date-display-format":"DD.MM.YYYY","show-relative-date":true,"hide-tags-in-title":false,"hide-tags-display":false,"hide-date-display":false,"hide-date-in-title":true,"lane-width":300}
+{"kanban-plugin":"basic","date-picker-week-start":1,"tag-colors":[],"show-checkboxes":true,"show-relative-date":true,"hide-tags-in-title":false,"hide-tags-display":false,"hide-date-display":false,"hide-date-in-title":true,"lane-width":300}
 ```
 %%
