@@ -1,6 +1,6 @@
 Самый интересный по функционалу плагин для Obsidian. При помощи него можно создавать запросы наподобие запросов к БД, только к Базе Знаний из заметок и файлов. все запросы выполняются в блоке кода (``знаки ` и ``` ``).
 
-Документация находится 
+Документация находится тут:
 <div class="rich-link-card-container"><a class="rich-link-card" href="https://blacksmithgu.github.io/obsidian-dataview/" target="_blank">
 	<div class="rich-link-image-container">
 		<div class="rich-link-image" style="background-image: url('https://blacksmithgu.github.io/obsidian-dataview/assets/obsidian.png')">
