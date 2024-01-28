@@ -6,7 +6,6 @@ kanban-plugin: basic
 
 ## TO DO
 
-- [ ] Выучить вопросы по ПИ @{19.01.2024}
 
 
 ## IN PROGRESS
@@ -16,6 +15,7 @@ kanban-plugin: basic
 ## DONE
 
 - [x] Написать ответы на все вопросы по ПИ
+- [x] Выучить вопросы по ПИ @{19.01.2024}
 
 
 ## DELAYED
