@@ -12,8 +12,7 @@ banner_y: 0.165
     - [[Операционные системы]] - Тут знания и фишки для работы с различными ОС
 - ✅Канбан-таблицы: `$= dv.execute('list from "" where kanban-plugin="basic"');`
 # Инфо о системе
-- 🗃️Последние изменения: 
->[!info] `$= dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(6).file.link)`
+- 🗃️Последние изменения: `$= dv.list(dv.pages("").sort(f=>f.file.mtime.ts,"desc").limit(6).file.link)`
 - 📈Статистика
     - 🗒️Количество заметок:
         - 🧑‍💻По программированию: 
